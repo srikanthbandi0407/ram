@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3831" started-at="2020-04-02T16:17:18 IST" finished-at="2020-04-02T16:17:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3831" started-at="2020-04-02T16:17:18 IST" finished-at="2020-04-02T16:17:22 IST">
+      <class name="jsonobjectsandarrayswithinresponse.dataproviders">
+        <test-method status="PASS" signature="addbook(java.lang.String, java.lang.String)[pri:0, instance:jsonobjectsandarrayswithinresponse.dataproviders@4e7dc304]" name="addbook" duration-ms="3237" started-at="2020-04-02T16:17:18 IST" data-provider="getData" finished-at="2020-04-02T16:17:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+        <test-method status="PASS" signature="addbook(java.lang.String, java.lang.String)[pri:0, instance:jsonobjectsandarrayswithinresponse.dataproviders@4e7dc304]" name="addbook" duration-ms="267" started-at="2020-04-02T16:17:21 IST" data-provider="getData" finished-at="2020-04-02T16:17:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+        <test-method status="PASS" signature="addbook(java.lang.String, java.lang.String)[pri:0, instance:jsonobjectsandarrayswithinresponse.dataproviders@4e7dc304]" name="addbook" duration-ms="238" started-at="2020-04-02T16:17:22 IST" data-provider="getData" finished-at="2020-04-02T16:17:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+      </class> <!-- jsonobjectsandarrayswithinresponse.dataproviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
