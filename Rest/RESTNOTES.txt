@@ -1,0 +1,70 @@
+
+REST  (Representational state transfer )
+
+Rest is an architerture desigen to create an API'S 
+
+
+
+///////////////////////////////////////////////HTTPS Methods
+
+END POINT : it is the place where our api will lie 
+
+GET : is used to extract some information from server by using given api 
+
+POST simple word posting or giving some information to server 
+
+PUT : update something
+
+DELETE : deleting something from server
+
+//////////////////////////////////////////////RESOURCES
+
+
+Resources : Resources represents API/Collection which can be accessed from the server 
+
+example 
+
+google/search
+google/maps
+google/images
+
+search,maps,images are resouces 
+
+PATH PARAMETERS: are the variable path for a URL path , they are tipically used to point to a specific resource within a collection it can be identified by id
+it is identified by /
+QUERY PARAMETERS : it is used to sort or filter the resouces 
+it is identified by ?
+
+
+				
+
+****************************ENDPONT =BASEURL+RESOURCES+PARAMETERS(QUERY/PATH)******************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
